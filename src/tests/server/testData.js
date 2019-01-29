@@ -350,12 +350,12 @@ let testData = {
     /////////////////// COMMIT /////////////////
     ////////////////////////////////////////////
     'commit': [{
-        'url': 'https://api.github.com/repos/octocat/Hello-World/commits/6dcb09b5b57875f334f61aebed695e2e4193db5e',
-        'sha': '6dcb09b5b57875f334f61aebed695e2e4193db5e',
-        'html_url': 'https://github.com/octocat/Hello-World/commit/6dcb09b5b57875f334f61aebed695e2e4193db5e',
-        'comments_url': 'https://api.github.com/repos/octocat/Hello-World/commits/6dcb09b5b57875f334f61aebed695e2e4193db5e/comments',
+        'url': 'https://api.github.com/repos/octocat/Hello-World/commits/XXX',
+        'sha': 'XXX',
+        'html_url': 'https://github.com/octocat/Hello-World/commit/XXX',
+        'comments_url': 'https://api.github.com/repos/octocat/Hello-World/commits/XXX/comments',
         'commit': {
-            'url': 'https://api.github.com/repos/octocat/Hello-World/git/commits/6dcb09b5b57875f334f61aebed695e2e4193db5e',
+            'url': 'https://api.github.com/repos/octocat/Hello-World/git/commits/XXX',
             'author': {
                 'name': 'Monalisa Octocat',
                 'email': 'support@github.com',
@@ -368,8 +368,8 @@ let testData = {
             },
             'message': 'Fix all the bugs',
             'tree': {
-                'url': 'https://api.github.com/repos/octocat/Hello-World/tree/6dcb09b5b57875f334f61aebed695e2e4193db5e',
-                'sha': '6dcb09b5b57875f334f61aebed695e2e4193db5e'
+                'url': 'https://api.github.com/repos/octocat/Hello-World/tree/XXX',
+                'sha': 'XXX'
             },
             'comment_count': 0
         },
@@ -412,8 +412,8 @@ let testData = {
             'site_admin': false
         },
         'parents': [{
-            'url': 'https://api.github.com/repos/octocat/Hello-World/commits/6dcb09b5b57875f334f61aebed695e2e4193db5e',
-            'sha': '6dcb09b5b57875f334f61aebed695e2e4193db5e'
+            'url': 'https://api.github.com/repos/octocat/Hello-World/commits/XXX',
+            'sha': 'XXX'
         }]
     }],
 
@@ -421,12 +421,12 @@ let testData = {
     //////////// COMMIT DONE BY BOT ////////////
     ////////////////////////////////////////////
     'commit_done_by_bot': [{
-        'url': 'https://api.github.com/repos/octocat/Hello-World/commits/6dcb09b5b57875f334f61aebed695e2e4193db5e',
-        'sha': '6dcb09b5b57875f334f61aebed695e2e4193db5e',
-        'html_url': 'https://github.com/octocat/Hello-World/commit/6dcb09b5b57875f334f61aebed695e2e4193db5e',
-        'comments_url': 'https://api.github.com/repos/octocat/Hello-World/commits/6dcb09b5b57875f334f61aebed695e2e4193db5e/comments',
+        'url': 'https://api.github.com/repos/octocat/Hello-World/commits/XXX',
+        'sha': 'XXX',
+        'html_url': 'https://github.com/octocat/Hello-World/commit/XXX',
+        'comments_url': 'https://api.github.com/repos/octocat/Hello-World/commits/XXX/comments',
         'commit': {
-            'url': 'https://api.github.com/repos/octocat/Hello-World/git/commits/6dcb09b5b57875f334f61aebed695e2e4193db5e',
+            'url': 'https://api.github.com/repos/octocat/Hello-World/git/commits/XXX',
             'author': {
                 'name': 'Monalisa Octocat',
                 'email': 'support@github.com',
@@ -439,8 +439,8 @@ let testData = {
             },
             'message': 'Fix all the bugs',
             'tree': {
-                'url': 'https://api.github.com/repos/octocat/Hello-World/tree/6dcb09b5b57875f334f61aebed695e2e4193db5e',
-                'sha': '6dcb09b5b57875f334f61aebed695e2e4193db5e'
+                'url': 'https://api.github.com/repos/octocat/Hello-World/tree/XXX',
+                'sha': 'XXX'
             },
             'comment_count': 0
         },
@@ -482,8 +482,8 @@ let testData = {
             'site_admin': false
         },
         'parents': [{
-            'url': 'https://api.github.com/repos/octocat/Hello-World/commits/6dcb09b5b57875f334f61aebed695e2e4193db5e',
-            'sha': '6dcb09b5b57875f334f61aebed695e2e4193db5e'
+            'url': 'https://api.github.com/repos/octocat/Hello-World/commits/XXX',
+            'sha': 'XXX'
         }]
     }],
 
@@ -491,12 +491,12 @@ let testData = {
     /////////////////// COMMITTS ///////////////
     ////////////////////////////////////////////
     'commits': [{
-        'url': 'https://api.github.com/repos/octocat/Hello-World/commits/6dcb09b5b57875f334f61aebed695e2e4193db5e',
-        'sha': '6dcb09b5b57875f334f61aebed695e2e4193db5e',
-        'html_url': 'https://github.com/octocat/Hello-World/commit/6dcb09b5b57875f334f61aebed695e2e4193db5e',
-        'comments_url': 'https://api.github.com/repos/octocat/Hello-World/commits/6dcb09b5b57875f334f61aebed695e2e4193db5e/comments',
+        'url': 'https://api.github.com/repos/octocat/Hello-World/commits/XXX',
+        'sha': 'XXX',
+        'html_url': 'https://github.com/octocat/Hello-World/commit/XXX',
+        'comments_url': 'https://api.github.com/repos/octocat/Hello-World/commits/XXX/comments',
         'commit': {
-            'url': 'https://api.github.com/repos/octocat/Hello-World/git/commits/6dcb09b5b57875f334f61aebed695e2e4193db5e',
+            'url': 'https://api.github.com/repos/octocat/Hello-World/git/commits/XXX',
             'author': {
                 'name': 'Monalisa Octocat',
                 'email': 'support@github.com',
@@ -509,8 +509,8 @@ let testData = {
             },
             'message': 'Fix all the bugs',
             'tree': {
-                'url': 'https://api.github.com/repos/octocat/Hello-World/tree/6dcb09b5b57875f334f61aebed695e2e4193db5e',
-                'sha': '6dcb09b5b57875f334f61aebed695e2e4193db5e'
+                'url': 'https://api.github.com/repos/octocat/Hello-World/tree/XXX',
+                'sha': 'XXX'
             },
             'comment_count': 0
         },
@@ -553,16 +553,16 @@ let testData = {
             'site_admin': false
         },
         'parents': [{
-            'url': 'https://api.github.com/repos/octocat/Hello-World/commits/6dcb09b5b57875f334f61aebed695e2e4193db5e',
-            'sha': '6dcb09b5b57875f334f61aebed695e2e4193db5e'
+            'url': 'https://api.github.com/repos/octocat/Hello-World/commits/XXX',
+            'sha': 'XXX'
         }]
     }, {
-        'url': 'https://api.github.com/repos/octocat/Hello-World/commits/6dcb09b5b57875f334f61aebed695e2e4193db5e',
-        'sha': '6dcb09b5b57875f334f61aebed695e2e4193db5e',
-        'html_url': 'https://github.com/octocat/Hello-World/commit/6dcb09b5b57875f334f61aebed695e2e4193db5e',
-        'comments_url': 'https://api.github.com/repos/octocat/Hello-World/commits/6dcb09b5b57875f334f61aebed695e2e4193db5e/comments',
+        'url': 'https://api.github.com/repos/octocat/Hello-World/commits/XXX',
+        'sha': 'XXX',
+        'html_url': 'https://github.com/octocat/Hello-World/commit/XXX',
+        'comments_url': 'https://api.github.com/repos/octocat/Hello-World/commits/XXX/comments',
         'commit': {
-            'url': 'https://api.github.com/repos/octocat/Hello-World/git/commits/6dcb09b5b57875f334f61aebed695e2e4193db5e',
+            'url': 'https://api.github.com/repos/octocat/Hello-World/git/commits/XXX',
             'author': {
                 'name': 'Monalisa Octocat',
                 'email': 'support@github.com',
@@ -575,8 +575,8 @@ let testData = {
             },
             'message': 'Fix all the bugs',
             'tree': {
-                'url': 'https://api.github.com/repos/octocat/Hello-World/tree/6dcb09b5b57875f334f61aebed695e2e4193db5e',
-                'sha': '6dcb09b5b57875f334f61aebed695e2e4193db5e'
+                'url': 'https://api.github.com/repos/octocat/Hello-World/tree/XXX',
+                'sha': 'XXX'
             },
             'comment_count': 0
         },
@@ -619,16 +619,16 @@ let testData = {
             'site_admin': false
         },
         'parents': [{
-            'url': 'https://api.github.com/repos/octocat/Hello-World/commits/6dcb09b5b57875f334f61aebed695e2e4193db5e',
-            'sha': '6dcb09b5b57875f334f61aebed695e2e4193db5e'
+            'url': 'https://api.github.com/repos/octocat/Hello-World/commits/XXX',
+            'sha': 'XXX'
         }]
     }, {
-        'url': 'https://api.github.com/repos/octocat/Hello-World/commits/6dcb09b5b57875f334f61aebed695e2e4193db5e',
-        'sha': '6dcb09b5b57875f334f61aebed695e2e4193db5e',
-        'html_url': 'https://github.com/octocat/Hello-World/commit/6dcb09b5b57875f334f61aebed695e2e4193db5e',
-        'comments_url': 'https://api.github.com/repos/octocat/Hello-World/commits/6dcb09b5b57875f334f61aebed695e2e4193db5e/comments',
+        'url': 'https://api.github.com/repos/octocat/Hello-World/commits/XXX',
+        'sha': 'XXX',
+        'html_url': 'https://github.com/octocat/Hello-World/commit/XXX',
+        'comments_url': 'https://api.github.com/repos/octocat/Hello-World/commits/XXX/comments',
         'commit': {
-            'url': 'https://api.github.com/repos/octocat/Hello-World/git/commits/6dcb09b5b57875f334f61aebed695e2e4193db5e',
+            'url': 'https://api.github.com/repos/octocat/Hello-World/git/commits/XXX',
             'author': {
                 'name': 'Monalisa Octocat',
                 'email': 'support@github.com',
@@ -641,8 +641,8 @@ let testData = {
             },
             'message': 'Fix all the bugs',
             'tree': {
-                'url': 'https://api.github.com/repos/octocat/Hello-World/tree/6dcb09b5b57875f334f61aebed695e2e4193db5e',
-                'sha': '6dcb09b5b57875f334f61aebed695e2e4193db5e'
+                'url': 'https://api.github.com/repos/octocat/Hello-World/tree/XXX',
+                'sha': 'XXX'
             },
             'comment_count': 0
         },
@@ -685,8 +685,8 @@ let testData = {
             'site_admin': false
         },
         'parents': [{
-            'url': 'https://api.github.com/repos/octocat/Hello-World/commits/6dcb09b5b57875f334f61aebed695e2e4193db5e',
-            'sha': '6dcb09b5b57875f334f61aebed695e2e4193db5e'
+            'url': 'https://api.github.com/repos/octocat/Hello-World/commits/XXX',
+            'sha': 'XXX'
         }]
     }],
 
@@ -875,7 +875,7 @@ let testData = {
         'head': {
             'label': 'new-topic',
             'ref': 'new-topic',
-            'sha': '6dcb09b5b57875f334f61aebed695e2e4193db5e',
+            'sha': 'XXX',
             'user': {
                 'login': 'forkOwner',
                 'id': 1
@@ -898,7 +898,7 @@ let testData = {
         'base': {
             'label': 'master',
             'ref': 'master',
-            'sha': '6dcb09b5b57875f334f61aebed695e2e4193db5e',
+            'sha': 'XXX',
             'user': {
                 'login': 'octocat',
                 'id': 1

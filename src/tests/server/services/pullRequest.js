@@ -18,7 +18,7 @@ let testDataComments_withCLAComment = [{
     'path': 'file1.txt',
     'position': 1,
     'original_position': 4,
-    'commit_id': '6dcb09b5b57875f334f61aebed695e2e4193db5e',
+    'commit_id': 'XXX',
     'original_commit_id': '9c48853fa3dc5c1c3d6f1f1cd1f2743e72652840',
     'user': {
         'login': 'octocat',
@@ -62,7 +62,7 @@ let testDataComments_withCLAComment = [{
     'path': 'file1.txt',
     'position': 1,
     'original_position': 4,
-    'commit_id': '6dcb09b5b57875f334f61aebed695e2e4193db5e',
+    'commit_id': 'XXX',
     'original_commit_id': '9c48853fa3dc5c1c3d6f1f1cd1f2743e72652840',
     'user': {
         'login': 'octocat',
@@ -108,7 +108,7 @@ let testDataComments_withoutCLA = [{
     'path': 'file1.txt',
     'position': 1,
     'original_position': 4,
-    'commit_id': '6dcb09b5b57875f334f61aebed695e2e4193db5e',
+    'commit_id': 'XXX',
     'original_commit_id': '9c48853fa3dc5c1c3d6f1f1cd1f2743e72652840',
     'user': {
         'login': 'octocat',

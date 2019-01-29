@@ -29,7 +29,7 @@ let testData = {
     'review_comments_url': 'https://api.github.com/repos/octocat/Hello-World/pulls/1347/comments',
     'review_comment_url': 'https://api.github.com/repos/octocat/Hello-World/pulls/comments/{number}',
     'comments_url': 'https://api.github.com/repos/octocat/Hello-World/issues/1347/comments',
-    'statuses_url': 'https://api.github.com/repos/octocat/Hello-World/statuses/6dcb09b5b57875f334f61aebed695e2e4193db5e',
+    'statuses_url': 'https://api.github.com/repos/octocat/Hello-World/statuses/XXX',
     'number': 1347,
     'state': 'open',
     'title': 'new-feature',
@@ -41,7 +41,7 @@ let testData = {
     'head': {
         'label': 'new-topic',
         'ref': 'new-topic',
-        'sha': '6dcb09b5b57875f334f61aebed695e2e4193db5e',
+        'sha': 'XXX',
         'user': {
             'login': 'octocat',
             'id': 1,
@@ -119,7 +119,7 @@ let testData = {
     'base': {
         'label': 'master',
         'ref': 'master',
-        'sha': '6dcb09b5b57875f334f61aebed695e2e4193db5e',
+        'sha': 'XXX',
         'user': {
             'login': 'octocat',
             'id': 1,
